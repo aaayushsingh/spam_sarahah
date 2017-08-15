@@ -36,5 +36,8 @@ use this to spam sarahah users, because i got tired of all the sarahah statuses
         })}
 ```
 
-### Replace the top of the script with any number. the user gets the same message that number of times.
-### Replcae message with any message of your choice, but remember that the message should be placed between quotes.
+4. you will see posted in colsole, the number behind posted represents th number of times it has been posted.
+5. There is no point 5, I am just adding this because a list with 5 points looks good. No, I don't have OCD.
+
+#### Replace the top of the script with any number. the user gets the same message that number of times.
+#### Replcae message with any message of your choice, but remember that the message should be placed between quotes.
