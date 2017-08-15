@@ -13,9 +13,9 @@ Use this to spam sarahah users, because i got tired of all the sarahah statuses
 3. Copy and paste the following script in console.
     
 ```    
-var number = 50;
-var message = 'hello sarahah';
-var userId = $('#RecipientId').val();
+number = 50;
+message = 'hello sarahah';
+userId = $('#RecipientId').val();
 verifTk = document.body.innerHTML.split("__RequestVerificationToken: $('")[1].split("').attr")[0];
 for(i=0;i<number;i++){
     $.ajax({
