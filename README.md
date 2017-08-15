@@ -3,6 +3,8 @@ Use this to spam sarahah users, because i got tired of all the sarahah statuses
 
 ##### NOTE: Sarahah allows users to report messages, so some users might not recieve messages, if you think that is the case, it is recommended that you log in your account in another tab(obviously a fake/dummy account). If that account is reported by the user too, create another ;)
 
+
+
 ## Steps
 1. Open the sarahah page of the user you want to spam
 2. Open `console` by pressing f12
@@ -33,7 +35,7 @@ for(i=0;i<number;i++){
 }
 ```
 
-4. you will see posted in colsole, the number behind posted represents th number of times it has been posted.
+4. you will see `posted` in console, the number behind posted represents th number of times it has been posted.
 5. There is no point 5, I am just adding this because a list with 5 points looks good. No, I don't have OCD.
 
 #### Replace the top of the script with any number. the user gets the same message that number of times.
